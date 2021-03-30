@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ConradoCamelo
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Programmer
+- 💞️ I’m looking to collaborate with Java
+- 📫 How to reach me: call +55 85988268080
 
 <!---
 ConradoCamelo/ConradoCamelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
