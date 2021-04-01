@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
-#### I'm Conrado Junior, and I'm a Java Student and I've been working in tech since 2012. I'm from Brazil, and I'm currently living in Ceará.
+#### I'm Conrado Junior, and I'm a Java Student and I've been working in tech since 2016. I'm from Brazil, and I'm currently living in Ceará.
+#### I love visit the community and see blog posts, videos, book and code streaming.
 
 
 **[Linkedin](https://www.linkedin.com/in/conrado-camelo-junior-01939a74/)**
